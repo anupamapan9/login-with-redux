@@ -7,3 +7,12 @@
 body {
   background: rgb(236, 236, 236);
 }
+
+button {
+  cursor: pointer;
+}
+
+button:hover {
+  transition: 0.5s ease-in;
+  background: rgb(19, 19, 19);
+}
